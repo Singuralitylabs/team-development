@@ -106,6 +106,13 @@ AI技術の発展によりWebアプリケーション開発のハードルが大
 ### Webデザイン
 デザイン制作：bolt.new
 
+### Visual Studio Code おすすめプラグイン
+
+*  Tailwind CSS のクラス名を自動補完：Tailwind CSS IntelliSense
+* コードフォーマッター：Prettier - Code formatter
+* AI コーディング アシスタント：GitHub Copilot
+* JavaScriptやTypeScriptなどの静的解析ツール：ESLint
+
 ### その他サービス
 有料の場合は導入できない可能性あり。下記の他、利便性の高いサービスは積極的に活用する。
 
